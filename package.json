@@ -1,0 +1,21 @@
+{
+  "name": "refresher-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nomala03/refresher-tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nomala03/refresher-tut/issues"
+  },
+  "homepage": "https://github.com/Nomala03/refresher-tut#readme"
+}
