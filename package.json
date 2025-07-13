@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Nomala03/refresher-tut/issues"
   },
-  "homepage": "https://github.com/Nomala03/refresher-tut#readme"
+  "homepage": "https://github.com/Nomala03/refresher-tut#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
