@@ -2,7 +2,7 @@ const age = 35
 const surname = 'Madonsela'
 const firstName = 'Mbee'
 const ageAsString = `${ age } is my age.` // string literals ,graves, backticks, used to combine the value of the variable with the string. 
-let isFemale = true //Boolean
+export let isFemale = true //Boolean
 let isRich = undefined
 let unAssigned // declaration keyword, variable name == undefined
 //console.log(unAssigned); 
