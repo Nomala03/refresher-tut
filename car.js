@@ -1,4 +1,4 @@
-//Export means you are using other files somewhere else
+//Export means you are using other files somewhere else(selling it to another country.)
 
 export class car{
     constructor(name, year)

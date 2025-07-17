@@ -5,7 +5,7 @@ Properties
 Methods = Functions stored as properties
 }
 */
- const person = {
+ export const person = {
     firstName: 'Nomala',
     surname: 'Greenie',
     age: 26,
@@ -108,7 +108,7 @@ Methods = Functions stored as properties
 //console.log(typeof book1.getTitle());
 
 //We can add to object literals with ease as below
-person.address = "123 Hola Street";
+person.address = "123 Hola Street"; // argumented the object person to address.
 
 console.log(person.address)
 
@@ -166,4 +166,4 @@ console.log("It is "+mazda6.age()+" yrs old");
 
 //JSON = JavaScript Object Notation
 //We want to take the object and turn it into a string. We are stringifying it. 
-document.getElementById("demo").innerHTML = JSON.stringify(book1);
+//document.getElementById("demo").innerHTML = JSON.stringify(book1);
